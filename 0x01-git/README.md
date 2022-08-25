@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-my personal commit
+my personal commit -amended 
 =======
 my second commit
 My second commit
